@@ -38,7 +38,8 @@ We have constructed six power prediction datasets. These datasets are relatively
 ## Modeling
  We propose a GNN-based ANGraph-L model for latency predictions to learn from asynchronous neuromorphic graphs. In addition, since the power consumption prediction task deals with activity matrices instead of graphs, we propose a ResNet-based ANGraph-P for power consumption predictions.
 
-[fig4.pdf](https://github.com/user-attachments/files/18514454/fig4.pdf)
+![fig4_00](https://github.com/user-attachments/assets/df21d6a6-ccb8-41e5-a77c-b298d7b0e747)
+
 
 
 ### ANGraph-L 
