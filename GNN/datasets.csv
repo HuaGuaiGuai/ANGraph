@@ -1,0 +1,11 @@
+dataset,latency_ap_mnist_4x4_extended,latency_ap_mnist_2x2_extended,latency_ap_mnist_3x3_extended,latency_ap_mnist_5x5_extended,latency_ap_mnist_6x6_extended,latency_ap_mnist_7x7_extended,latency_ap_mnist_8x8_extended,latency_ap_cifar10dvs,latncey_mnist_mix_uniform,latency_ap_cifar100,latency_ap_tiny_imagenet,latncey_mnist_mix_nonuniform,latency_ap_mnist_conv,latency_ap_mnist_tsmc28,latency_ap_mnist_tsmc22,latency_ap_mnist_tsmc65
+task_type,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency
+evaluation_metric,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2,r2
+raw_dir,gnn-predictor/GNN/data/latency_ap_mnist_4x4_extended,gnn-predictor/GNN/data/latency_ap_mnist_2x2_extended,gnn-predictor/GNN/data/latency_ap_mnist_3x3_extended,gnn-predictor/GNN/data/latency_ap_mnist_5x5_extended,gnn-predictor/GNN/data/latency_ap_mnist_6x6_extended,gnn-predictor/GNN/dataset/latency_ap_mnist_7x7_extended,gnn-predictor/GNN/data/latency_ap_mnist_8x8_extended,gnn-predictor/GNN/data/latency_ap_cifar10dvs,gnn-predictor/GNN/data/latncey_mnist_mix_uniform,gnn-predictor/GNN/data/latency_ap_cifar100,gnn-predictor/GNN/data/latency_ap_tiny_imagenet,gnn-predictor/GNN/latncey_mnist_mix_nonuniform,gnn-predictor/GNN/data/latency_ap_mnist_conv,gnn-predictor/GNN/data/latency_ap_mnist_tsmc28,gnn-predictor/GNN/data/latency_ap_mnist_tsmc22,gnn-predictor/GNN/data/latency_ap_mnist_tsmc65
+add_inverse_edge,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+additional_node_files,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+additional_edge_files,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+rand_split_seed,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024,2024
+num_classes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+num_samples,10000,10000,10000,10000,10000,10000,10000,5000,20000,10000,10000,20000,10000,10000,10000,10000
+emb_dim,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
