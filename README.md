@@ -3,11 +3,8 @@
 ## About project
 In this project, we propose a novel performance prediction framework for asynchronous neuromorphic hardware, which transforms the intermediate representation (IR) of the TrueAsync simulator into asynchronous neuromorphic graphs and predicts hardware performance including latency and power consumption.
 
-<center>
-<figure>
-  <img src="C:\Users\admin\Desktop\fig1.pdf" style="width:90%" style="text-align:center;">
-</figure>
-</center>
+[fig1.pdf](https://github.com/user-attachments/files/18514453/fig1.pdf)
+
 
 ### Contribution
 * Transforming: we introduce a method to analyze event streams and define asynchronous neuromorphic graphs as IRs. By transforming the event streams into graphs, we bridge system-level simulation and graph-level representations, enabling GNN training and inference for hardware latency predictions.
@@ -39,11 +36,9 @@ We have constructed six power prediction datasets. These datasets are relatively
 <!-- Modeling and Advancing -->
 ## Modeling
  We propose a GNN-based ANGraph-L model for latency predictions to learn from asynchronous neuromorphic graphs. In addition, since the power consumption prediction task deals with activity matrices instead of graphs, we propose a ResNet-based ANGraph-P for power consumption predictions.
- <center>
-<figure>
-  <img src="C:\Users\admin\Desktop\fig4.pdf" style="width:90%" style="text-align:center;">
-</figure>
-</center>
+
+[fig4.pdf](https://github.com/user-attachments/files/18514454/fig4.pdf)
+
 
 ### ANGraph-L 
 * You can run [ANGL_train.py](ANGL_train.py) to train ANGraph-L on the specified dataset.
