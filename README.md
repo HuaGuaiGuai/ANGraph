@@ -3,7 +3,8 @@
 ## About project
 In this project, we propose a novel performance prediction framework for asynchronous neuromorphic hardware, which transforms the intermediate representation (IR) of the TrueAsync simulator into asynchronous neuromorphic graphs and predicts hardware performance including latency and power consumption.
 
-[fig1.pdf](https://github.com/user-attachments/files/18514453/fig1.pdf)
+![fig1_00](https://github.com/user-attachments/assets/e7f0f284-bbf2-44de-9dfd-58eb1837ca2b)
+
 
 
 ### Contribution
